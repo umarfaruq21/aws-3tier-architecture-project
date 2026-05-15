@@ -176,4 +176,87 @@ Subnet selected**
 <img width="1920" height="638" alt="Website output" src="https://github.com/user-attachments/assets/9aa65412-e320-4b72-afd2-45a51dc2b663" />
 
 
+# 🚀 AWS 3-Tier Architecture Deployment Project
+
+## 📌 Project Overview
+
+Designed and documented a production-style AWS 3-tier architecture using EC2, VPC, public/private subnets, route tables, and security groups.
+
+This project demonstrates practical cloud engineering and infrastructure deployment concepts.
+
+---
+
+# 🏗 Architecture Design
+
+Users
+↓
+Web Server (Public Subnet)
+↓
+Application Layer (Private Subnet)
+↓
+Database Layer (Port 3306 Restricted)
+
+---
+
+# 🔧 Technologies Used
+
+* AWS EC2
+* Amazon VPC
+* Public & Private Subnets
+* Security Groups
+* Route Tables
+* Internet Gateway
+* Linux
+* Apache Web Server
+* GitHub
+
+---
+
+# 🔐 Security Implementation
+
+* Public and private subnet separation
+* Security Group-based layered access control
+* Database traffic restricted internally
+* Public internet access limited to web layer
+
+---
+
+# 📸 Project Screenshots
+
+## Architecture Diagram
+
+<img width="377" height="322" alt="aws-3tier-architecture-diagram png" src="https://github.com/user-attachments/assets/ae31c4d5-1ed2-43c2-b839-f16a9b816647" />
+
+## EC2 Web Server
+
+<img width="790" height="344" alt="EC2 instance running Captures-1" src="https://github.com/user-attachments/assets/ea27ead3-a1a7-4fb0-b766-ea738b2aab45" />
+
+## VPC and Subnets
+
+<img width="1901" height="782" alt="VPC Overview with Subnets" src="https://github.com/user-attachments/assets/01938b8d-b77e-48cd-b040-e7a6912289cc" />
+
+## Security Groups
+
+<img width="1903" height="772" alt="Security Groups Configuration1" src="https://github.com/user-attachments/assets/053a9bda-af64-4a9e-a977-576d0331ed28" />
+
+## Route Table
+
+<img width="1896" height="741" alt="Route Table Configuration" src="https://github.com/user-attachments/assets/fa7ab5af-abe6-4996-98b2-a66723bd95b9" />
+
+---
+
+# 📚 Key Learnings
+
+* AWS cloud architecture
+* EC2 deployment
+* VPC networking
+* Public/private subnet design
+* Cloud security concepts
+* Infrastructure planning
+
+---
+
+# 🎯 Final Outcome
+
+Successfully designed and documented a real-world AWS 3-tier architecture project suitable for Cloud and DevOps portfolio showcase.
 
