@@ -277,7 +277,7 @@ This project helped strengthen my understanding of cloud networking, infrastruct
 Mahammad Umar Faruq Shaik
 
 🔗 GitHub:
-https://github.com/umarfaruq21
+https://github.com/umarfaruq21/aws-3tier-architecture-project
 
 🔗 LinkedIn:
 https://www.linkedin.com/in/umarfaruqshaik/
